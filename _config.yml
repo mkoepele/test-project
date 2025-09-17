@@ -18,9 +18,9 @@ source-code: https://github.com/mkoepele/test-project
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Context Halloween
+title: Boo!
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Selected episodes of Context
+tagline: Selected episodes of Context podcast
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Test repository using four interviews from Context podcast"
