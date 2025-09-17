@@ -2,4 +2,4 @@ field,display_name,btn,hidden,sort_name
 interviewer,Interviewed by
 date,Date,,,Date
 location,,true
-subjects,Subjects,true
+subject,Subjects,true
